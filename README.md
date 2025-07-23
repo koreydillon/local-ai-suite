@@ -41,7 +41,7 @@ This setup includes:
    ```bash
    docker compose up -d --build
 3. Visit in Browser
-   Open WebUI: http://localhost:3000
-   Jupyter: http://localhost:8888
-   Streamlit: http://localhost:8501
-   FastAPI Docs: http://localhost:8000/docs
+   - Open WebUI: http://localhost:3000
+   - Jupyter: http://localhost:8888
+   - Streamlit: http://localhost:8501
+   - FastAPI Docs: http://localhost:8000/docs
