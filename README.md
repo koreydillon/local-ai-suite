@@ -37,7 +37,7 @@ This setup includes:
    ```bash
    git clone https://github.com/YOUR_USERNAME/ai-suite.git
    cd ai-suite
-2. **Sart Everything
+2. **Start Everything**
    ```bash
    docker compose up -d --build
 3. Visit in Browser
