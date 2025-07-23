@@ -37,3 +37,11 @@ This setup includes:
    ```bash
    git clone https://github.com/YOUR_USERNAME/ai-suite.git
    cd ai-suite
+2. **Sart Everything
+   ```bash
+   docker compose up -d --build
+3. Visit in Browser
+   Open WebUI: http://localhost:3000
+   Jupyter: http://localhost:8888
+   Streamlit: http://localhost:8501
+   FastAPI Docs: http://localhost:8000/docs
