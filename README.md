@@ -45,3 +45,31 @@ This setup includes:
    - Jupyter: http://localhost:8888
    - Streamlit: http://localhost:8501
    - FastAPI Docs: http://localhost:8000/docs
+  
+### 🗂️ Folder Structure
+
+ai-suite/
+├── docker-compose.yml
+├── ollama/                  # LLM engine
+├── open-webui/              # Web UI for chat & documents
+├── jupyter/                 # Python notebooks with LLM access
+├── whisper/                 # Audio to text app
+├── stable-diffusion/        # Image generation
+├── langchain/               # Prompt chains
+├── llamaindex/              # RAG document indexing
+├── haystack/                # QA pipelines
+├── pandasai/                # NL-driven pandas queries
+├── fastapi/                 # Custom ML API template
+├── streamlit-app/           # Frontend dashboards
+└── ai-tools/                # Shared scripts, dependencies
+
+### 📄 Optional Enhancements
+- Mount your documents (PDFs, CSVs) into open-webui or jupyter for retrieval-based question answering
+- Add .env files for API keys (e.g., for Hugging Face)
+- Add notebooks/ directory for storing and versioning your work
+
+### 👨‍💻 Author
+Built by Korey Dillon
+[🔗 LinkedIn](https://www.linkedin.com/in/korey-dillon)
+
+
