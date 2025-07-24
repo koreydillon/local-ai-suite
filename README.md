@@ -70,6 +70,6 @@ ai-suite/
 
 ### 👨‍💻 Author
 Built by Korey Dillon
-[🔗 LinkedIn](https://www.linkedin.com/in/korey-dillon)
+- [🔗LinkedIn](https://www.linkedin.com/in/korey-dillon)
 
 
