@@ -48,7 +48,7 @@ This setup includes:
   
 ### 🗂️ Folder Structure
 
-|----------------------|-------------------------------------------------------------------------|
+```bash
 ai-suite/
 ├── docker-compose.yml
 ├── ollama/                  # LLM engine
@@ -63,7 +63,7 @@ ai-suite/
 ├── fastapi/                 # Custom ML API template
 ├── streamlit-app/           # Frontend dashboards
 └── ai-tools/                # Shared scripts, dependencies
-|----------------------|-------------------------------------------------------------------------|
+
 
 ### 📄 Optional Enhancements
 - Mount your documents (PDFs, CSVs) into open-webui or jupyter for retrieval-based question answering
